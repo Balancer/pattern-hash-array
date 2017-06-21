@@ -1,0 +1,10 @@
+{
+    "name": "balancer/pattern-hash-array",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [{"name": "Balancer","email": "balancer@balancer.ru"}],
+
+    "autoload": {
+		"classmap": [ "./" ]
+	}
+}
